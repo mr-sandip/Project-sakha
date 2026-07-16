@@ -1,9 +1,10 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: 'mr_-sandip.aternos.me',
+  host: 'mr_sandip.aternos.me',
   port: 62409,
-  username: 'SakhaAI'
+  username: 'SakhaAI',
+  version: '1.20.1'
 });
 
 bot.on('login', () => {
