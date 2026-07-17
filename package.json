@@ -10,6 +10,7 @@
     "node": "20.x"
   },
   "dependencies": {
-    "mineflayer": "^4.20.1"
+  "express": "^4.21.2",
+  "mineflayer": "^4.20.1"
   }
 }
